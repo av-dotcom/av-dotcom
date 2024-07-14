@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&random=false&width=435&lines=Software+Developer+%7C+Full+Stack+Developer" alt="Software Developer " /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&random=false&width=435&lines=Software+Developer+%7C+Full+Stack+Developer+r" alt="Software Developer " /></a>
 </p>
 
 <!-- Social icons section -->
