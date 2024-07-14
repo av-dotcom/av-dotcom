@@ -1,10 +1,11 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Alejandro Vilaca" /></a>
+  <a href="https://github.com/av-dotcom">
+    Alejandro Vilaca
+  </a>
 </p>
 
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&random=false&width=435&lines=Software+Developer+%7C+Full+Stack+Developer" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&random=false&width=435&lines=Software+Developer+%7C+Full+Stack+Developer" alt="Software Developer " /></a>
 </p>
 
 <!-- Social icons section -->
