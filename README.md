@@ -11,9 +11,9 @@ Results-driven Full Stack Developer with 4 years of experience creating innovati
 ### Skills 🚀
 
 - **Languages:** JavaScript, TypeScript, Java, Python
-- **Frontend:** React.js, Next.js, HTML, CSS
-- **Backend:** Node.js, Spring Boot, Django, Prisma ORM
-- **Databases:** MongoDB, mySQL, PostgreSQL
+- **Frontend:** React.js, Next.js
+- **Backend:** Node.js, Spring Boot, Django
+- **Databases:** MongoDB, mySQL, PostgreSQL, Oracle
 - **Tools & Platforms:** Docker, Git, Bitbucket, GitHub
 - **Others:** Cybersecurity, Linux Commands/Distros
 
