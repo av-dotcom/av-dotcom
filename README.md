@@ -6,7 +6,7 @@ My previous account was **[github.com/lordalejandro](https://github.com/lordalej
 
 ### About Me 💻
 
-Results-driven Full Stack Developer with 4 years of experience creating innovative web applications. I like developing user-friendly apps that people love to use. I continuously seek opportunities to expand my skill set through innovative projects..
+Results-driven Full Stack Developer with experience creating innovative fintech web applications. I enjoy creating user-friendly apps that users love. I’m always looking for projects that challenge my skills and allow me to explore cutting-edge solutions.
 
 ### Skills 🚀
 
