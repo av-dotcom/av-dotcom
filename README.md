@@ -10,9 +10,9 @@ Results-driven Full Stack Developer with experience creating innovative fintech 
 
 ### Skills 🚀
 
-- **Languages:** JavaScript, TypeScript, Java, Python
+- **Languages:** JavaScript, TypeScript, Java, Ruby, Python
 - **Frontend:** React.js, Next.js
-- **Backend:** Node.js, Spring Boot, Django
+- **Backend:** Node.js, Spring Boot, NestJS, Rails, Django
 - **Databases:** MongoDB, mySQL, PostgreSQL, Oracle
 - **Tools & Platforms:** Docker, Git, Bitbucket, GitHub
 - **Others:** Cybersecurity, Linux Commands/Distros
