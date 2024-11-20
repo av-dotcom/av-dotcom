@@ -15,7 +15,7 @@ Results-driven Full Stack Developer with experience creating innovative fintech 
 - **Backend:** Node.js, Spring Boot, NestJS, Rails, Django
 - **Databases:** MongoDB, mySQL, PostgreSQL, Oracle
 - **Tools & Platforms:** Docker, Git, Bitbucket, GitHub
-- **Others:** Cybersecurity, Linux Commands/Distros
+- **Others:** Cybersecurity, Linux Commands/Distros, AWS (S3, EC2, ECS, Lambda), Microsoft Azure (Azure Functions)
 
 ### Projects 🌟
 
