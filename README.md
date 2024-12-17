@@ -1,6 +1,6 @@
 ## Hi there! My name is Alejandro Vilaca 👋
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&pause=1000&color=FFFFFF&random=false&width=435&lines=Software+Developer+%40+ITTI+Digital" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&pause=1000&color=FFFFFF&random=false&width=435&lines=Software+Engineer" alt="Typing SVG" /></a>
 
 My previous account was **[github.com/lordalejandro](https://github.com/lordalejandro)**.
 
