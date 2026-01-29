@@ -3,7 +3,6 @@
 ### About Me 💻
 Results-driven Full Stack Developer with experience creating innovative fintech web applications. I enjoy creating user-friendly apps that users love. I’m always looking for projects that challenge my skills and allow me to explore cutting-edge solutions.
 ### Skills 🚀
-
 - **Languages:** JavaScript, TypeScript, Java, Ruby, Python
 - **Frontend:** React.js, Next.js
 - **Backend:** Node.js, Spring Boot, NestJS, Rails, Django
