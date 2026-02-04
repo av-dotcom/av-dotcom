@@ -9,7 +9,6 @@ Results-driven Full Stack Developer with experience creating innovative fintech 
 - **Databases:** MongoDB, mySQL, PostgreSQL, Oracle
 - **Tools & Platforms:** Docker, Git, Bitbucket, GitHub
 - **Others:** Cybersecurity, Linux Commands/Distros, AWS (S3, EC2, ECS, Lambda), Microsoft Azure (Azure Functions)
-
 ### Projects 🌟
 
 - **Wedin (side project)**: [wedin-app.vercel.app/gifts](https://wedin-app.vercel.app/gifts)
