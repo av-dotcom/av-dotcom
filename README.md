@@ -11,7 +11,6 @@ Results-driven Full Stack Developer with experience creating innovative fintech 
 - **Others:** Cybersecurity, Linux Commands/Distros, AWS (S3, EC2, ECS, Lambda), Microsoft Azure (Azure Functions)
 ### Projects 🌟
 - **Wedin (side project)**: [wedin-app.vercel.app/gifts](https://wedin-app.vercel.app/gifts)
-
 ### Contact Me  📬
 
 <div> 
