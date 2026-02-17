@@ -12,7 +12,6 @@ Results-driven Full Stack Developer with experience creating innovative fintech 
 ### Projects 🌟
 - **Wedin (side project)**: [wedin-app.vercel.app/gifts](https://wedin-app.vercel.app/gifts)
 ### Contact Me  📬
-
 <div> 
   <a href="mailto:me@avilaca.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <!--   <a href="https://www.linkedin.com/in/ale-vilaca-26634a229" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  -->
