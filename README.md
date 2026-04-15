@@ -7,7 +7,7 @@ Results-driven Full Stack Developer with experience creating innovative fintech 
 - **Frontend:** React.js, Next.js, AngularJS
 - **Backend:** Node.js, Spring Boot, NestJS, Rails, Django
 - **Databases:** MongoDB, mySQL, PostgreSQL, OnPrem Oracle DB
-- **Tools & Platforms:** Docker, Git, Bitbucket, GitHub
+- **Tools & Platforms:** Docker, Git, Bitbucket, GitHub, Azure, AWS
 - **Others:** Cybersecurity, Linux Commands/Distros, AWS (S3, EC2, ECS, Lambda), Microsoft Azure (Azure Functions)
 ### Projects 🌟
 - **Wedin (side project)**: [wedin-app.vercel.app/gifts](https://wedin-app.vercel.app/gifts)
