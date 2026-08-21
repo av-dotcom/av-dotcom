@@ -10,7 +10,7 @@ Results-driven Full Stack Developer with experience creating innovative fintech 
 - **Tools & Platforms:** Docker, Git, Bitbucket, GitHub, Azure, AWS
 - **Others:** Cybersecurity, Linux Commands/Distros, AWS (S3, EC2, ECS, Lambda), Microsoft Azure (Azure Functions)
 ### Projects 🌟
-- **Wedin (side project)**: [wedin-app.vercel.app/gifts](https://wedin-app.vercel.app/gifts)
+- **Wedin (founder dev)**: [www.somoswedin.com](https://www.somoswedin.com)
 ### Contact Me  📬
 <div> 
   <a href="mailto:me@avilaca.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
